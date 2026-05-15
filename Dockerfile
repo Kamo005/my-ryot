@@ -1,1 +1,1 @@
-FROM ignisda/ryot:v10
+FROM ignisda/ryot
